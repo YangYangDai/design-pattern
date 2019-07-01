@@ -1,5 +1,5 @@
 # design-pattern
-[TOC]
+[toc]
 
 ## Java设计模式详解
 
