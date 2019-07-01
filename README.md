@@ -1,7 +1,6 @@
-# design-pattern
-[toc]
+[TOC]
 
-## Java设计模式详解
+## 设计模式
 
 设计模式是造轮子的基础
 
